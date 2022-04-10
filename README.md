@@ -1,6 +1,6 @@
 # pannda-icons
 
-icon of [@sh_orz_RO](https://twitter.com/sh_orz_RO)
+icons of [@sh_orz_RO](https://twitter.com/sh_orz_RO)
 
 ## Now
 
